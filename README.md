@@ -8,6 +8,8 @@ Pequeno script que faz conversão do arquivo Excel para json, visando criação 
 
 ENTRE NO NOSSO GRUPO DE WHATSAPP ONDE ESTAMOS COMEÇANDO O DESENVOLVIMENTO DO SISTEMA: [https://chat.whatsapp.com/BaBFBXKxw8KCp96PZKeGwV](https://chat.whatsapp.com/BaBFBXKxw8KCp96PZKeGwV)
 
+**Quando entrar no grupo se apresente e diga sua especialidade e como pode ajudar.**
+
 Estamos convocando desenvolvedores, designers de UX e qualquer profissional com habilidades em criação de aplicativos para Web, Android e iOS para formar uma equipe de voluntários. Nosso objetivo é desenvolver uma ferramenta que possa auxiliar a população do Rio Grande do Sul afetada pelas recentes enchentes. Esta iniciativa está sendo mobilizada pelos grupos CocoaHeads Porto Alegre e GDG Porto Alegre, que estão ativamente envolvidos na organização e no suporte ao projeto.
 
 Este aplicativo tem o potencial de ser uma plataforma essencial para a coordenação de esforços de auxílio, distribuição de recursos, ou qualquer outra funcionalidade que possa mitigar os impactos dessa catástrofe. Ainda estamos definindo as especificações exatas do aplicativo, e contamos com a colaboração de voluntários para moldar essa ferramenta conforme as necessidades emergentes.
